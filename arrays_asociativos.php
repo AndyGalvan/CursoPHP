@@ -18,7 +18,7 @@
             echo "Es un Array";
         }else{
 
-            echo "No es un Array";
+            echo "No es un Arrayssssss";
         }
 
 
